@@ -11,6 +11,8 @@ Das Spiel ist ein **Taktik-RPG**, inspiriert von Klassikern des Genres. Der Spie
 - **Eigene kreative Freiheit**: Das Spielkonzept und Design wurden frei erarbeitet, basierend auf einer eigenen zentralen Idee.  
 - **Unity-Entwicklung**: Das Spiel wurde in **Unity** entwickelt, mit Fokus auf rundenbasierte Kämpfe und strategische Spieltiefe.
 
+Das Spiel befindet sich derzeit weiterhin in einem unstetigem, privaten Entwicklungszustand.
+
 ## Installation & Ausführung 
 https://drive.google.com/file/d/1XZnF4-CJRcaMBUvjtwqu_oWnRmc8Pu7z/view?usp=drive_link
 - Downloaden Sie den ZIP-Ordner
