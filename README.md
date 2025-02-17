@@ -15,4 +15,4 @@ Das Spiel ist ein **Taktik-RPG**, inspiriert von Klassikern des Genres. Der Spie
 https://drive.google.com/file/d/1XZnF4-CJRcaMBUvjtwqu_oWnRmc8Pu7z/view?usp=drive_link
 - Downloaden Sie den ZIP-Ordner
 - Entpacken Sie die enthaltenen Daten und starten Sie die Anwendung (ProjectAlpha)
-- Viel Spaß beim austesten :)
+- Viel Spaß beim Austesten :)
